@@ -1,5 +1,5 @@
 ## CLI download manager
-Download files with multiple threads for faster
+Download files with multiple threads faster
 ### Basic Usage
 ```
 python main.py {URL} [OPTIONS]
