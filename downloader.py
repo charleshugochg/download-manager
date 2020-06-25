@@ -66,5 +66,6 @@ class Download(Thread):
                     self._pointer += len(chunk)
                     lock.release()
 
+
 def parse_filename(url):
     return url.split('/')[-1].split('?')[0]

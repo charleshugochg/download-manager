@@ -19,5 +19,5 @@ setup(
         'console_scripts': [
             'download = downloader_manager:main'
         ]
-    }, install_requires=['click']
+    }, install_requires=['click', 'requests']
 )
