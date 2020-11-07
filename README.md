@@ -1,5 +1,6 @@
 ## CLI download manager
 Download files with multiple threads faster
+> It needs to be free and safe right? use your own.
 ### Basic Usage
 ```
 python main.py {URL} [OPTIONS]
@@ -13,3 +14,5 @@ python main.py {URL} [OPTIONS]
 [Example]
     python main.py http://example.com --num_threads 8 --name hello.txt
 ```
+### Note
+Some type of url are not still working.
