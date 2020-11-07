@@ -1,6 +1,6 @@
 ## CLI download manager
 Download files with multiple threads faster
-> It needs to be free and safe right? use your own.
+> It needs to be free and safe right? use yours.
 ### Basic Usage
 ```
 python main.py {URL} [OPTIONS]
